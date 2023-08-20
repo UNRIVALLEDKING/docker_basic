@@ -24,6 +24,12 @@ List all containers, including stopped ones:
 docker ps -a
 ```
 
+List all containers:
+
+```
+docker ps -all
+```
+
 ## Building Images
 
 Build a Docker image from a Dockerfile located in the current directory:
