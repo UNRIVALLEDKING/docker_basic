@@ -98,4 +98,4 @@ docker exec -it <container-id> <command>
 
 ## Summary
 
-These basic Docker commands provide a foundation for interacting with Docker images and containers. They enable you to build, run, manage, and clean up containers effectively
+These basic Docker commands provide a foundation for interacting with Docker images and containers. They enable you to build, run, manage, and clean up containers effectively. As you become more familiar with Docker, you can explore more advanced commands and features to optimize your containerized development workflow.
